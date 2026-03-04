@@ -1,0 +1,64 @@
+{
+    "liked_topics": [
+        "Artificial Intelligence",
+        "Machine Learning"
+    ],
+    "search_history": [
+        {
+            "topic": "Artificial Intelligence",
+            "results": 43,
+            "timestamp": "2026-03-03T03:14:21.484611"
+        },
+        {
+            "topic": "Data Science",
+            "results": 25,
+            "timestamp": "2026-03-03T03:14:21.486613"
+        }
+    ],
+    "saved_topics": [
+        "climate change",
+        "iran",
+        "qatar"
+    ],
+    "history": [
+        {
+            "topic": "qatar",
+            "results": 7,
+            "timestamp": "2026-03-04T23:32:54.508963"
+        },
+        {
+            "topic": "ai",
+            "results": 9,
+            "timestamp": "2026-03-04T23:33:04.018834"
+        },
+        {
+            "topic": "qatar",
+            "results": 7,
+            "timestamp": "2026-03-04T23:33:10.991605"
+        },
+        {
+            "topic": "qatar",
+            "results": 7,
+            "timestamp": "2026-03-04T23:33:30.455397"
+        },
+        {
+            "topic": "art",
+            "results": 10,
+            "timestamp": "2026-03-04T23:33:46.048981"
+        },
+        {
+            "topic": "egypt",
+            "results": 9,
+            "timestamp": "2026-03-04T23:34:42.330132"
+        },
+        {
+            "topic": "america",
+            "results": 10,
+            "timestamp": "2026-03-04T23:34:59.730402"
+        }
+    ],
+    "settings": {
+        "language": "en",
+        "page_size": 45
+    }
+}
