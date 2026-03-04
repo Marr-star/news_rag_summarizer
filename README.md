@@ -5,6 +5,10 @@ A modern, intelligent news summarization application that uses **LangChain**, **
 Features a beautiful **deep-blue/purple themed UI** built with Streamlit.
 
 ---
+<img width="1886" height="794" alt="Screenshot 2026-03-04 233423" src="https://github.com/user-attachments/assets/2c299b42-5e2f-4cf7-962b-2a5f7ec4f089" />
+<img width="1874" height="849" alt="Screenshot 2026-03-04 233151" src="https://github.com/user-attachments/assets/56ddee08-8d31-4995-b2cc-312ddda92b36" />
+<img width="1849" height="823" alt="Screenshot 2026-03-04 233536" src="https://github.com/user-attachments/assets/34e29b3d-0a64-4970-95b8-ad6b9ff0807a" />
+<img width="1896" height="804" alt="Screenshot 2026-03-04 233230" src="https://github.com/user-attachments/assets/ed56b7d7-ff94-4ea8-b541-c3bf86ac9a53" />
 
 ## 📋 Table of Contents
 
